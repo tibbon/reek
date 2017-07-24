@@ -1,7 +1,6 @@
 pkg
 spec/output
 tmp
-doc
 coverage
 .yardoc
 .bundle

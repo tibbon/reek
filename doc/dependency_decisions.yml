@@ -1,0 +1,43 @@
+---
+- - :whitelist
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-22 20:03:02.329106987 Z
+- - :approve
+  - ffi
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-22 20:08:20.273588805 Z
+- - :approve
+  - byebug
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-22 20:08:31.864282104 Z
+- - :approve
+  - rb-readline
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-22 20:09:03.660845572 Z
+- - :approve
+  - contracts
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-22 20:09:11.883333618 Z
+- - :approve
+  - json
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-22 20:09:16.442190952 Z
+- - :whitelist
+  - Apache 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-24 20:15:03.314135012 Z
